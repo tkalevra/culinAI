@@ -1,6 +1,6 @@
-torch>=2.0
-transformers>=4.30
-datasets>=2.13
-pyarrow>=10.0
-argparse>=1.4
-
+torch>=2.0.0  # Ensure compatibility with CUDA
+transformers>=4.30.0
+triton-windows
+pyarrow
+tqdm
+json
